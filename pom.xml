@@ -23,7 +23,7 @@
     <properties>
         <spring.version>4.3.6.RELEASE</spring.version>
         <hibernate.version>4.3.6.Final</hibernate.version>
-        <postgresql.version>42.2.5</postgresql.version>
+        <postgresql.version>42.2.25</postgresql.version>
     </properties>
 
 
